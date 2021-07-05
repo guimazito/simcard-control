@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="usuarios">
+        <item>Adelson</item>
+        <item>Adriano</item>
+        <item>Alvaro</item>
+        <item>Alvaro Willians</item>
+        <item>Anderson</item>
+        <item>Andre</item>
+        <item>Antonino</item>
+        <item>Bruno</item>
+        <item>Caio</item>
+        <item>Claudio</item>
+        <item>Deivise</item>
+        <item>Diana</item>
+        <item>Eddie</item>
+        <item>Eudes</item>
+        <item>Fabio</item>
+        <item>Gabriel</item>
+        <item>Geisiana</item>
+        <item>Lucas</item>
+        <item>Michael</item>
+        <item>Miguel</item>
+        <item>Rafael</item>
+        <item>Renato</item>
+        <item>Rodrigo</item>
+        <item>Rosane</item>
+        <item>Silas</item>
+        <item>Thayna</item>
+        <item>Thiago</item>
+        <item>Vanessa</item>
+    </string-array>
+</resources>

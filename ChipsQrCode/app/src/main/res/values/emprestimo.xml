@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tester">
+        <item>Alvaro</item>
+        <item>Silas</item>
+        <item>Deivise</item>
+        <item>Silas</item>
+        <item>Gabriel</item>
+        <item>Fabio</item>
+        <item>Silas</item>
+        <item>Adriano</item>
+        <item>Adriano</item>
+        <item>Lucas</item>
+        <item>Adriano</item>
+        <item>Adriano</item>
+        <item>Gabriel</item>
+        <item>Miguel</item>
+        <item>Deivise</item>
+        <item>Deivise</item>
+        <item>Adriano</item>
+    </string-array>
+
+    <string-array name="operadora">
+        <item>Vivo</item>
+        <item>Oi</item>
+        <item>Vivo</item>
+        <item>Claro</item>
+        <item>Vivo</item>
+        <item>Claro</item>
+        <item>Oi</item>
+        <item>Claro</item>
+        <item>Claro</item>
+        <item>Claro</item>
+        <item>Tim</item>
+        <item>Vivo</item>
+        <item>Vivo</item>
+        <item>Tim</item>
+        <item>Claro</item>
+        <item>Claro</item>
+        <item>Tim</item>
+    </string-array>
+
+    <string-array name="chip">
+        <item>FTS56</item>
+        <item>FTS67</item>
+        <item>FTS52</item>
+        <item>AT0115</item>
+        <item>FTS190</item>
+        <item>AT0120</item>
+        <item>FTS26</item>
+        <item>FTS02</item>
+        <item>AT0117</item>
+        <item>FTS07</item>
+        <item>FTS34</item>
+        <item>UT118</item>
+        <item>FTS50</item>
+        <item>FTS60</item>
+        <item>FTS04</item>
+        <item>AT0122</item>
+        <item>FT021</item>
+    </string-array>
+
+    <string-array name="datahora">
+        <item>11/04/2017  11:23:00</item>
+        <item>05/05/2017  13:10:00</item>
+        <item>08/06/2017  18:08:00</item>
+        <item>09/06/2017  14:26:00</item>
+        <item>19/06/2017  11:25:00</item>
+        <item>20/06/2017  08:49:00</item>
+        <item>21/06/2017  10:12:00</item>
+        <item>22/06/2017  07:53:00</item>
+        <item>22/06/2017  08:06:00</item>
+        <item>22/06/2017  08:11:00</item>
+        <item>22/06/2017  10:09:00</item>
+        <item>23/06/2017  07:52:00</item>
+        <item>23/06/2017  07:58:00</item>
+        <item>23/06/2017  10:59:00</item>
+        <item>23/06/2017  11:39:00</item>
+        <item>23/06/2017  11:39:00</item>
+        <item>23/06/2017  13:55:00</item>
+    </string-array>
+
+</resources>

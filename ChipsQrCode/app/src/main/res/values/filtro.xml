@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filtro">
+        <item>Tester</item>
+        <item>Operadora</item>
+    </string-array>
+</resources>
